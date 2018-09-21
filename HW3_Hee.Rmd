@@ -120,6 +120,8 @@ for(i in 1:iii){
 }
   
   plot(in_value,Ex_c[,1])
+  Ex_c[,1]
+
 ```
 
 
@@ -205,6 +207,7 @@ for(i in 1:iii){
 }
 
 plot(in_value,Ex_e[,1])
+Ex_e[,1]
 ```
 
 
